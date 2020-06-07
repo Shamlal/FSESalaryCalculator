@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Package: com.cognizant.java
+Created-By: Shamayla
+Main-Class: com.java.cognizant.fse.salary_income_predictor.SalaryIncomeCalculator
